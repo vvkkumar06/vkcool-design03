@@ -118,7 +118,5 @@ main{
 @keyframes btn-ani{
     0%   {background-color: rgb(236, 124, 124);}
     25%  {background-color: rgb(230, 230, 109);}
-    50%  {background-color: rgb(174, 174, 230);}
-    75% {background-color: rgb(106, 211, 106);}
     100%   {background-color: rgb(236, 124, 124);}
 }
