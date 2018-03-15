@@ -46,7 +46,6 @@ header, footer{
 .col-4 div{
     margin-top:10px;
     background: #ccc;
-    height:200px;
 }
 .col-6{
     grid-template-columns: auto auto auto auto auto auto;
