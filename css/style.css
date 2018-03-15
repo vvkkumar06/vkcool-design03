@@ -27,7 +27,6 @@ header, footer{
 }
 .col-1{
     grid-template-columns: auto;
-    height:100px;
 }
 .col-2{
     grid-template-columns:auto auto;
@@ -53,7 +52,6 @@ header, footer{
 .col-6 div{
     margin-top:10px;
     background: #ccc;
-    height:150px;
 }
 
 footer{
@@ -154,6 +152,9 @@ main{
  ul.navbar{
     margin:0 auto;
     margin-top:-100px;
+ }
+ .col-6{
+     grid-auto-columns: auto auto;
  }
 
 }
