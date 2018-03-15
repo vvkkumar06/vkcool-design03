@@ -26,6 +26,7 @@ header, footer{
     grid-gap:10px;
 }
 
+
 .col-1{
     grid-template-columns: auto;
 }
@@ -44,14 +45,12 @@ header, footer{
 
 .col-4 div{
     margin-top:10px;
-    background: #ccc;
 }
 .col-6{
     grid-template-columns: auto auto auto auto auto auto;
 }
 .col-6 div{
     margin-top:10px;
-    background: #ccc;
 }
 
 footer{
