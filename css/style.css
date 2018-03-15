@@ -135,4 +135,26 @@ main{
  .col-1, .col-2, .col-3, .col-4, .col-5, .col-6{
      grid-template-columns: auto;
  }
+ .navbar{
+     width:100%;
+     display:inline-block;
+ }
+ .navbar li{
+     float:none;
+     margin-top:-20px;
+     
+ }
+ .navbar li a{
+    display:block;
+    width:50%;
+    text-align: center;
+    font-size:10px;
+    margin:0 auto;
+    
+ }
+ ul.navbar{
+    margin:0 auto;
+    margin-top:-150px;
+ }
+
 }
